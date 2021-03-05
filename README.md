@@ -3,8 +3,7 @@
 
 # Fabulous-tours
 
-> This project was built during the advanced CSS and sass course and it demonstrates the benefit of the appropriate usage of sass and the simplicity of such a tool.
-
+> This project is for a travel agency specialized in outdoors trips and adventures the project built entirely  with HTML, CSS, and SASS.
 
 Additional description about the project and its features.
 
