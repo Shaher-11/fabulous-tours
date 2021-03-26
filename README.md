@@ -5,7 +5,8 @@
 
 > This project is for a travel agency specialized in outdoors trips and adventures the project built entirely  with HTML, CSS, and SASS.
 
-Additional description about the project and its features.
+
+![screenshot](./img/fabulous.png)
 
 ## Built With
 
@@ -34,6 +35,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Jonas Schmedtmann
+- CSS tricks
 
 ## 📝 License
 
