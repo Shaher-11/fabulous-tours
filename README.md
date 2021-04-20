@@ -3,7 +3,7 @@
 
 # Fabulous-tours
 
-> This project is for a travel agency specialized in outdoors trips and adventures the project built entirely  with HTML, CSS, and SASS.
+> This project built for a travel agency specialized in outdoors trips and adventures the project built entirely  with HTML, CSS, and SASS.
 
 
 ![screenshot](./img/fabulous.png)
