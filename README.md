@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://fabuloustours.netlify.app/)
+[View Live](https://fabuloustours.netlify.app/)
 
 
 👤 **Shaher**
