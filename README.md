@@ -19,7 +19,7 @@
 [Live Demo Link](https://fabuloustours.netlify.app/)
 
 
-👤 **Author**
+👤 **Shaher**
 
 - GitHub: [@githubhandle](https://github.com/Shaher-11)
 - Twitter: [@twitterhandle](https://twitter.com/ShaherShamroukh/)
