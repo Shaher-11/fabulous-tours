@@ -19,8 +19,6 @@
 [Live Demo Link](https://fabuloustours.netlify.app/)
 
 
-## Authors
-
 👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/Shaher-11)
