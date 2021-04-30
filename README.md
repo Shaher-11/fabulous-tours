@@ -13,6 +13,7 @@
 - HTML
 - CSS
 - SASS
+- Lots of love :heart:
 
 ## Live Demo
 
